@@ -89,8 +89,5 @@ This project demonstrates the implementation of various **design patterns** in a
 - **User Interface**: Create a GUI for enhanced user experience.
 - **Security**: Implement additional security measures such as authentication and encryption for transactions.
 
-#### Dependencies:
-- Python 3.x
-
 #### Note
 This project is for practicing python only. No framework or database is used in this project.
